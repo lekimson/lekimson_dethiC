@@ -1,0 +1,4 @@
+﻿  câu1_a.cpp
+C:\Users\ASUS\source\repos\câu1_a\câu1_a\câu1_a.cpp(12,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\source\repos\câu1_a\câu1_a\câu1_a.cpp(22,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\source\repos\câu1_a\câu1_a\câu1_a.cpp(30,18): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

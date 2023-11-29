@@ -1,0 +1,4 @@
+﻿  câu 2 đề 2011.cpp
+C:\Users\ASUS\source\repos\câu 2 đề 2011\câu 2 đề 2011\câu 2 đề 2011.cpp(46,65): error C2248: 'MayXucTac::DON_GIA_HOA_CHAT': cannot access private member declared in class 'MayXucTac'
+C:\Users\ASUS\source\repos\câu 2 đề 2011\câu 2 đề 2011\câu 2 đề 2011.cpp(7): message : see declaration of 'MayXucTac::DON_GIA_HOA_CHAT'
+C:\Users\ASUS\source\repos\câu 2 đề 2011\câu 2 đề 2011\câu 2 đề 2011.cpp(4): message : see declaration of 'MayXucTac'

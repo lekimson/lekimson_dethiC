@@ -1,0 +1,28 @@
+﻿  cau2_a.cpp
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(2,1): error C2059: syntax error: 'private'
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(5,1): error C2059: syntax error: 'public'
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6,14): error C2065: 'string': undeclared identifier
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6,21): error C2146: syntax error: missing ')' before identifier 'sh'
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6,41): error C2065: 'sh': undeclared identifier
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6,46): error C2086: 'int eyes': redefinition
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(3): message : see declaration of 'eyes'
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6,51): error C2065: 'eye': undeclared identifier
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6,56): error C2059: syntax error: '{'
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6,56): error C2143: syntax error: missing ';' before '{'
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6,56): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(10,9): error C2065: 'cout': undeclared identifier
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(10,30): error C3861: 'getShape': identifier not found
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(10,66): error C2065: 'endl': undeclared identifier
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(13,13): error C2143: syntax error: missing ';' before '*'
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(13,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(13,5): error C2086: 'int EyedFace': redefinition
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(6): message : see declaration of 'EyedFace'
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(13,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(13,23): error C2059: syntax error: '{'
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(13,23): error C2143: syntax error: missing ';' before '{'
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(13,23): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(16,1): error C2059: syntax error: '}'
+C:\Users\ASUS\source\repos\cau2_a\cau2_a\cau2_a.cpp(16,1): error C2143: syntax error: missing ';' before '}'

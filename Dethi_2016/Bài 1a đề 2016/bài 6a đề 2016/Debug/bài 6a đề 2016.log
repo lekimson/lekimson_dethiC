@@ -1,0 +1,5 @@
+﻿  bài 6a đề 2016.cpp
+C:\Users\ASUS\source\repos\bài 6a đề 2016\bài 6a đề 2016\bài 6a đề 2016.cpp(41,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\bài 6a đề 2016\bài 6a đề 2016\bài 6a đề 2016.cpp(66,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\bài 6a đề 2016\bài 6a đề 2016\bài 6a đề 2016.cpp(84,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  bài 6a đề 2016.vcxproj -> C:\Users\ASUS\source\repos\bài 6a đề 2016\Debug\bài 6a đề 2016.exe
